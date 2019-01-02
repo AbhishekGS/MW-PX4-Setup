@@ -1,5 +1,5 @@
 # MW-PX4-Setup
-Setup the PX4 toolchain to be compatible with Embedded Coder support package for PX4 Autopilots
+Setup the PX4 toolchain to be compatible with the Embedded Coder support package for PX4 Autopilots
 ## Introduction
 Using  [Embedded Coder support package for PX4 Autopilots](https://www.mathworks.com/hardware-support/px4-autopilots.html), you can generate ANSI/ISO C++ from Simulink® models specifically tailored for the Pixhawk FMU (flight management unit) using the PX4 Toolchain. You can customize algorithms that leverage onboard sensor data and other calculations at runtime.
 
